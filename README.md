@@ -6,7 +6,7 @@ Vehículo dotado de un conjunto de sensores y baterías (cámara) con piloto aut
 Por lo tanto, si no es viable realizar el trayecto, el programa mostrará un aviso que informe de ello y mostrará la alternativa más cercana al punto solicitado.
 
 # Integrantes del equipo.
-Pablo Rosario Rúas (55441) y Alberto Sanz Sanz (55464).
+Pablo Rosario Rúas (Usuario de github:Pabloroosario)(55441) y Alberto Sanz Sanz (Usuario de github: albertosanzsanz (55464).
 
 # Objetivos del trabajo.
 
