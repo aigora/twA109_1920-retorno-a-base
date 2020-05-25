@@ -1,0 +1,4 @@
+ADVERTENCIAS ANTES DE EJECUTAR
+-Es preferible escribir todos los datos despues de ./robot
+-Es posible que de alguna vez debido a la cuadratura de ambas habitaciones si se le otorga mucha bateria, el recorrido sea ciclico
+-Es poco probable, pero no imposible, que la posicion dada coincida con una linea de la habitacion, entonces el escaneo sera erroneo y solo girará.
